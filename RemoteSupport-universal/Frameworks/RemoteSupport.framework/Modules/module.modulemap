@@ -1,0 +1,4 @@
+framework module RemoteSupport {
+  header "RemoteSupport-Swift.h"
+  requires objc
+}
